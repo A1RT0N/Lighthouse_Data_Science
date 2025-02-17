@@ -33,6 +33,24 @@ Lighthouse_Data_Science/
 2. Abra o arquivo `jupyter_notebook.ipynb` e clique em "Run All"
 
 
+## Feedback
+
+Você fez um bom trabalho em:  
+
+- Testou 2 modelos de regressão;  
+- Avaliou várias métricas;  
+- Aplicou OHE.  
+
+Como oportunidade de melhoria, sugerimos:  
+
+- EDA superficial;  
+- Melhorar a organização e estética;  
+- Realizar comentários ou conclusões sobre os dados;  
+- Realizar a normalização dos dados;  
+- Realizar a otimização de hiperparâmetros;  
+- Realizar cross-validation.  
+
+
 ## Autor
 - [Ayrton Filho](https://github.com/A1RT0N)
 
